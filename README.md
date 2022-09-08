@@ -1,2 +1,2 @@
 # nft-design
-the clear js/css/html nft-site with normalize.css congiguration
+**the clear js/css/html nft-site with normalize.css congiguration**
